@@ -23,8 +23,17 @@ or just make  stanalone .py file based on the functions in notebook
 ### Status
 Project is: _in progress_ 
 
+>Rev_B 13_08-2020
+Glassdoor changed the structure of the webpage a bit.
+To be able  create summary of of weblinks there is a small change in scrapping part:   
+
+>class _"jobInfoItem jobTitle css-13w0lq6 eigr9kq1 jobLink"_ is used to find joblinks.
+There are some extras like saving results of comparison to md files for quick review
+
 ### Other information
 Notebook is divided on universal fuctions whicht except scrapping part could be easlily used elsewhere.
+
+
 
 
 ### Contact
