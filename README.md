@@ -1,5 +1,5 @@
 ## Project Name
-> Linkedin scraping
+> Linkedin/glassdoor scraping
 
 ### General info
 * Scraping linkedin webpage for jobs defined in start_url
@@ -23,7 +23,7 @@ or just make  stanalone .py file based on the functions in notebook
 ### Status
 Project is: _in progress_ 
 
->Rev_B 13_08-2020
+> glassdoor scraping  Rev_B 13_08-2020
 Glassdoor changed the structure of the webpage a bit.
 To be able  create summary of of weblinks there is a small change in scrapping part:   
 
