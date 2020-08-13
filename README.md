@@ -23,7 +23,7 @@ or just make  stanalone .py file based on the functions in notebook
 ### Status
 Project is: _in progress_ 
 
-> glassdoor scraping  Rev_B 13_08-2020
+> glassdoor-scrap_RevB.ipynb 13_08-2020
 Glassdoor changed the structure of the webpage a bit.
 To be able  create summary of of weblinks there is a small change in scrapping part:   
 
